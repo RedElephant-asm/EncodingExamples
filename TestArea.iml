@@ -10,6 +10,15 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://$MODULE_DIR$/../SimpleDictionaryService/production/SimpleDictionaryService.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://$MODULE_DIR$/../SimpleEncodings/production/SimpleEncodings.jar!/" />
         </CLASSES>
         <JAVADOC />
